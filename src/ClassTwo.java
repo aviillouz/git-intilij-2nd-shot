@@ -5,5 +5,6 @@
 public class ClassTwo {
     public static void main(String args[]){
         System.out.println("Ok, It's working,move to level 6");
+        //It works fine by now
     }
 }
