@@ -4,6 +4,6 @@
  */
 public class ClassTwo {
     public static void main(String args[]){
-        System.out.println("Ok, It's working,move to level 5");
+        System.out.println("Ok, It's working,move to level 6");
     }
 }
