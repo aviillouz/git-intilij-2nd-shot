@@ -1,9 +1,9 @@
 /**
  * Trying to commit only src files.
- * Stam Change 3
+ * Stam Change 4
  */
 public class ClassTwo {
     public static void main(String args[]){
-        System.out.println("Ok, It's working,move to next level.");
+        System.out.println("Ok, It's working,move to level 4");
     }
 }
